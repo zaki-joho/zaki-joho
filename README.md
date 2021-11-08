@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zaki-joho)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zaki-joho&theme=tokyonight)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-joho&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-joho&layout=compact&theme=tokyonight)
 <!--
 **zaki-joho/zaki-joho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
